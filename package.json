@@ -2,8 +2,8 @@
   "name": "LearnGitBranching",
   "version": "0.8.0",
   "description": "An interactive git visualization to challenge and educate!",
-  "homepage": "https://learngitbranching.js.org",
-  "author": "Peter Cottle <petermcottle@gmail.com>",
+  "homepage": "learnGit.chaitu.net",
+  "author": "Chaitanya Chandra <email@chaitu.net>",
   "license": "MIT",
   "scripts": {
     "test": "gulp test"
